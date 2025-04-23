@@ -1,0 +1,33 @@
+.d-flex{
+    display: flex;
+}
+.jcc{
+    justify-content: center;
+}
+.jcsb{
+    justify-content: space-between;
+}
+.jcse{
+    justify-content: space-evenly;
+}
+.jcsa{
+    justify-content: space-around;
+}
+.aic{
+    align-items: center;
+}
+.gap{
+    gap:50px;
+}
+.gap20{
+    gap:20px;
+}
+.gap100{
+    gap:100px
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.nowrap{
+    flex-wrap: nowrap;
+}
